@@ -452,17 +452,17 @@ body .hero-section {
     transition: transform 0.3s ease;
 }
 
-.service-card:hover .service-icon {
+/* .service-card:hover .service-icon {
     transform: scale(1.1);
-}
+} */
 
 .icon-circle {
     transition: all 0.3s ease;
 }
 
-.service-card:hover .icon-circle {
+/* .service-card:hover .icon-circle {
     transform: rotate(360deg);
-}
+} */
 
 /* Contact Section */
 .info-item {

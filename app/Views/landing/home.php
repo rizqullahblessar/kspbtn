@@ -9,7 +9,7 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Montserrat:wght@600;700;800&display=swap" rel="stylesheet">
     
@@ -100,7 +100,7 @@
                                 </div>
                                 <div class="ribbon-content">
                                     <h4 class="fw-bold mb-2">Visi Kami</h4>
-                                    <p class="mb-0">Menjadi koperasi simpan pinjam terpercaya yang memberikan solusi keuangan terbaik untuk kesejahteraan anggota dan masyarakat Indonesia.</p>
+                                    <p class="mb-0">Mewujudkan kemandirian ekonomi masyarakat melalui koperasi yang dikelola secara adil, transparan, dan mensejahterakan anggota.</p>
                                 </div>
                             </div>
                         </div>
@@ -111,7 +111,11 @@
                                 </div>
                                 <div class="ribbon-content">
                                     <h4 class="fw-bold mb-2">Misi Kami</h4>
-                                    <p class="mb-0">Memberikan layanan simpan pinjam yang mudah, aman, dan terpercaya dengan bunga kompetitif serta pelayanan profesional untuk meningkatkan kesejahteraan anggota.</p>
+                                    <ul class="mb-0" style="padding-left: 18px; margin-left: 0;">
+                                        <li class="mb-2">Menyediakan layanan kepemilikan perumahan subsidi untuk anggota koperasi.</li>
+                                        <li class="mb-2">Mendorong pemasaran produk properti dan UMKM secara kolektif</li>
+                                        <li class="mb-0">Memberdayakan anggota koperasi dengan pelatihan dan pendampingan secara digitalisasi untuk pemasaran produk properti</li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -144,7 +148,9 @@
                                 </div>
                                 <div>
                                     <h5 class="fw-bold">Aman & Terpercaya</h5>
-                                    <p class="text-muted mb-0">Terdaftar dan diawasi oleh otoritas terkait</p>
+                                    <p class="text-muted mb-0">Terdaftar dan diawasi oleh otoritas terkait dengan nomor :</p>
+                                    <p class="text-muted mb-0">AHU-0090461.AH.01.29.TAHUN 2025</p>
+                                    <p class="text-muted mb-0">NIB : 0711250084571</p>
                                 </div>
                             </div>
                             <div class="feature-item d-flex align-items-start mb-3">
@@ -219,8 +225,8 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-card h-100 p-4 bg-white rounded-3 shadow-sm">
                         <div class="service-icon mb-4">
-                            <div class="icon-circle bg-primary bg-opacity-10 rounded-circle d-inline-flex align-items-center justify-content-center" style="width: 80px; height: 80px;">
-                                <i class="fas fa-piggy-bank fa-2x text-primary"></i>
+                            <div class="icon-circle bg-info bg-opacity-10 rounded-circle d-inline-flex align-items-center justify-content-center" style="width: 80px; height: 80px;">
+                                <i class="fas fa-piggy-bank" style="font-size: 2.5rem; color: #3782ce;"></i>
                             </div>
                         </div>
                         <h4 class="fw-bold mb-3">Simpanan</h4>
@@ -238,8 +244,8 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="service-card h-100 p-4 bg-white rounded-3 shadow-sm">
                         <div class="service-icon mb-4">
-                            <div class="icon-circle bg-success bg-opacity-10 rounded-circle d-inline-flex align-items-center justify-content-center" style="width: 80px; height: 80px;">
-                                <i class="fas fa-hand-holding-usd fa-2x text-success"></i>
+                            <div class="icon-circle bg-info bg-opacity-10 rounded-circle d-inline-flex align-items-center justify-content-center" style="width: 80px; height: 80px;">
+                                <i class="fas fa-hand-holding-usd" style="font-size: 2.5rem; color: #28a745;"></i>
                             </div>
                         </div>
                         <h4 class="fw-bold mb-3">Pinjaman</h4>
@@ -258,7 +264,7 @@
                     <div class="service-card h-100 p-4 bg-white rounded-3 shadow-sm">
                         <div class="service-icon mb-4">
                             <div class="icon-circle bg-info bg-opacity-10 rounded-circle d-inline-flex align-items-center justify-content-center" style="width: 80px; height: 80px;">
-                                <i class="fas fa-comments fa-2x text-info"></i>
+                                <i class="fas fa-comments" style="font-size: 2.5rem; color: #17a2b8;"></i>
                             </div>
                         </div>
                         <h4 class="fw-bold mb-3">Konsultasi Keuangan</h4>
@@ -344,7 +350,7 @@
                                 </div>
                                 <div>
                                     <h5 class="fw-bold mb-2">Alamat</h5>
-                                    <p class="text-muted mb-0">Jl. Contoh No. 123<br>Jakarta Pusat, DKI Jakarta 10110</p>
+                                    <p class="text-muted mb-0">Jalan Daru Blok A2 Nomor 25<br>Desa/Kelurahan Daru, Kec. Jambe, Kab. Tangerang, Banten, Indonesia</p>
                                 </div>
                             </div>
                         </div>
@@ -463,7 +469,7 @@
                 <div class="col-lg-3 col-md-6">
                     <h5 class="fw-bold mb-3">Kontak</h5>
                     <ul class="list-unstyled text-white-50">
-                        <li class="mb-2"><i class="fas fa-map-marker-alt me-2"></i> Jakarta Pusat, Indonesia</li>
+                        <li class="mb-2"><i class="fas fa-map-marker-alt me-2"></i> Jalan Daru Blok A2 Nomor 25, Desa/Kelurahan Daru, Kec. Jambe, Kab. Tangerang, Banten, Indonesia</li>
                         <li class="mb-2"><i class="fas fa-phone me-2"></i> (021) 1234-5678</li>
                         <li class="mb-2"><i class="fas fa-envelope me-2"></i> info@kspbtn.com</li>
                     </ul>
